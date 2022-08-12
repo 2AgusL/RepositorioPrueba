@@ -1,0 +1,10 @@
+C:\Users\momi\source\repos\Proyecto Carpinteria\bin\Debug\Proyecto Carpinteria.exe.config
+C:\Users\momi\source\repos\Proyecto Carpinteria\bin\Debug\Proyecto Carpinteria.exe
+C:\Users\momi\source\repos\Proyecto Carpinteria\bin\Debug\Proyecto Carpinteria.pdb
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto Carpinteria.csprojAssemblyReference.cache
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto_Carpinteria.Form1.resources
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto_Carpinteria.Properties.Resources.resources
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto Carpinteria.csproj.GenerateResource.cache
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto Carpinteria.exe
+C:\Users\momi\source\repos\Proyecto Carpinteria\obj\Debug\Proyecto Carpinteria.pdb
